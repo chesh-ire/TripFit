@@ -1,0 +1,9 @@
+# Python 3.11–3.13 recommended. On very new interpreters (3.14+) ensure wheels
+# exist for your platform; these ranges let pip pick compatible builds.
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.34,<1.0
+anthropic>=0.69,<1.0
+httpx>=0.28,<1.0
+python-multipart>=0.0.20
+pydantic>=2.10,<3.0
+pydantic-settings>=2.7,<3.0

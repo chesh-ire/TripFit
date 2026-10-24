@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/shaarvarishashidhar/AndroidStudioProjects/MyApplication4/**)",
+      "Bash(ls -la app)",
+      "Bash(cat settings.gradle*)",
+      "Bash(cat build.gradle*)"
+    ]
+  }
+}

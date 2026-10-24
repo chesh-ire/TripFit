@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Premium dark brand background (kills the white launch flash). -->
+    <color name="brand_bg">#FF0B0E1A</color>
+</resources>
